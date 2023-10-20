@@ -9,9 +9,9 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('../images/Fundo.jpg') no-repeat;
+    background: url('UntitledPagamento.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
 }
 .wrapper{
     width: 420px;

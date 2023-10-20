@@ -8,11 +8,9 @@ function pag_cadastro(){
     let data_add = JSON.stringify(data)
     localStorage.setItem("tudo", data_add)
 
-    window.location.href = '../cadastro/cadastro.html'
+    window.location.href = 'login/cadastro.html'
 
     return data;
-   
-    
 }
 
 function pag_login(){
